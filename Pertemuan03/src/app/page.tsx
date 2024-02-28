@@ -1,5 +1,6 @@
 
 import { Gallery } from "@/components/gallery";
+import Bio from "@/components/bio";
 
 export default function Home() {
   return (
@@ -14,6 +15,9 @@ export default function Home() {
       </div> */}
       <div className="flex gap-10">
         <Gallery />
+      </div>
+      <div>
+        <Bio />
       </div>
     </div>
   );
