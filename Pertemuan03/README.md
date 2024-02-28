@@ -12,4 +12,16 @@ Berikut merupakan solve error nya:
 
 <img src="images/Solve01.png" alt="Alt Text" width="500"/>
 
+2. Praktikum 2
+
+Pada praktikum ke 2 ini mempelajari membuat named export named import pada komponen, dan juga komponen dapat digunakan pada komponen lainnya
+
+Berikut adalah hasil dari praktikum 2, hasilnya tidak terlalu berbeda dengan praktikum sebelumnya
+
+<img src="images/Praktikum02.png" alt="Alt Text" width="500"/>
+
+
+
+
+
 

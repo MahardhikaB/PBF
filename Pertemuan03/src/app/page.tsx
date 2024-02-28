@@ -1,4 +1,5 @@
-import Profile from "@/components/profile";
+
+import { Gallery } from "@/components/gallery";
 
 export default function Home() {
   return (
@@ -6,12 +7,14 @@ export default function Home() {
       <div className="text-center">
         Sobbing
       </div>
+      {/* <div className="flex gap-10">
+      <Profile />
+      <Profile />
+      <Profile />
+      </div> */}
       <div className="flex gap-10">
-      <Profile />
-      <Profile />
-      <Profile />
+        <Gallery />
+      </div>
     </div>
-    </div>
-    
   );
 }
