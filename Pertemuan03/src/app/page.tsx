@@ -1,5 +1,6 @@
 
 import { Gallery } from "@/components/gallery";
+import Todo from "@/components/todolist";
 import Bio from "@/components/bio";
 
 export default function Home() {
@@ -14,7 +15,8 @@ export default function Home() {
       <Profile />
       </div> */}
       <div className="flex gap-10">
-        <Gallery />
+        {/* <Gallery /> */}
+        <Todo />
       </div>
       <div>
         <Bio />
