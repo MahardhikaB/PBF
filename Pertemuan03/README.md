@@ -43,3 +43,8 @@
 
     <img src="images/Soal04.png" alt="Alt Text" width="500"/>
 
+5. **Praktikum 3 - Soal 5**
+
+    Ya ada perbedaan, Berikut tampilannya
+
+    <img src="images/Soal05.png" alt="Alt Text" width="500"/>
