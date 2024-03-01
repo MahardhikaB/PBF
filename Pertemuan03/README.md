@@ -59,5 +59,7 @@
 
     Berikut tampilannya
 
-        <img src="images/Soal06.png" alt="Alt Text" width="500"/>
+    <img src="images/Soal06.png" alt="Alt Text" width="500"/>
+    
 
+7. 
