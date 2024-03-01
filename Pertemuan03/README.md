@@ -88,6 +88,13 @@
     
     Dengan menggunakan operator ternary, dapat menghasilkan apabila ukuran gambar kurang dari 90 akan dikategorikan s sebaliknya pabila ukuran gambar lebih dari 90 akan dikategorikan b.
 
+9. **Praktikum 4 - Soal 9**
 
+    Kode yang telah diperbaiki
 
-    
+    <img src="images/Solve09.png" alt="Alt Text" width="500"/>
+
+    Tampilannya
+
+    <img src="images/Soal09.png" alt="Alt Text" width="500"/>
+
