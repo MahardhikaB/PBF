@@ -75,4 +75,19 @@
     
     Pada soal diatas memiliki pertanyaan bagaiman untuk mengurangi duplikasi pada 2 list yang memiliki markup yang sama, oleh karena itu dibuat komponen yang menampung props yang akan digunakan, dengan menggunakan komponen yang menampung props membuat kode menjadi lebih fleksibel dan mengurangi duplikasi.
 
+8. **Pratikum 4 - Soal 8**
 
+    Kode yang telah diperbaiki
+
+    <img src="images/Solve08_1.png" alt="Alt Text" width="500"/>
+    <img src="images/Solve08_2.png" alt="Alt Text" width="500"/>
+
+    Tampilan perbedaan ukuran gambar
+
+    <img src="images/Soal08.png" alt="Alt Text" width="500"/>
+    
+    Dengan menggunakan operator ternary, dapat menghasilkan apabila ukuran gambar kurang dari 90 akan dikategorikan s sebaliknya pabila ukuran gambar lebih dari 90 akan dikategorikan b.
+
+
+
+    
