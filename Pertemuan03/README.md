@@ -62,4 +62,17 @@
     <img src="images/Soal06.png" alt="Alt Text" width="500"/>
     
 
-7. 
+7. **Praktikum 4 - Soal 7**
+
+    Kode yang telah diperbaiki
+
+    <img src="images/Solve07_1.png" alt="Alt Text" width="500"/>
+    <img src="images/Solve07_2.png" alt="Alt Text" width="500"/>
+
+    Tampilan
+
+    <img src="images/Soal07.png" alt="Alt Text" width="500"/>
+    
+    Pada soal diatas memiliki pertanyaan bagaiman untuk mengurangi duplikasi pada 2 list yang memiliki markup yang sama, oleh karena itu dibuat komponen yang menampung props yang akan digunakan, dengan menggunakan komponen yang menampung props membuat kode menjadi lebih fleksibel dan mengurangi duplikasi.
+
+
