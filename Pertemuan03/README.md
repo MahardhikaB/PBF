@@ -35,7 +35,7 @@
 
 4. **Praktikum 3 - Soal 4**
 
-    Kode yang telah di perbaiki
+    Kode yang telah diperbaiki
 
     <img src="images/Solve04.png" alt="Alt Text" width="500"/>
 
@@ -48,3 +48,16 @@
     Ya ada perbedaan, Berikut tampilannya
 
     <img src="images/Soal05.png" alt="Alt Text" width="500"/>
+
+6. **Praktikum 3 - Soal 6**
+
+    Kode yang telah diperbaiki
+
+    <img src="images/Solve06.png" alt="Alt Text" width="500"/>
+
+    Pada kode diatas untuk menggunakan baseUrl pada src, diharuskan menggunakan backtick(`) dan ${} dengan cara tersebut untuk pergantian imageId lebih fleksibel daripada harus mengganti baseUrlnya
+
+    Berikut tampilannya
+
+        <img src="images/Soal06.png" alt="Alt Text" width="500"/>
+
