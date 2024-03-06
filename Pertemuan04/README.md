@@ -74,3 +74,29 @@
     Hasil :
 
     <img src="images/P4_Hasil2.png" alt="Alt Text" width="500"/>
+
+8. **Praktikum 5 - Langkah 1**
+
+    Kode :
+
+    <img src="images/P5_Langkah1.png" alt="Alt Text" width="500"/>
+    <img src="images/P5_Langkah1.1.png" alt="Alt Text" width="500"/>
+
+    Hasil :
+
+    Jawaban Benar
+    <img src="images/P5_Hasil1.png" alt="Alt Text" width="500"/>
+    <img src="images/P5_Hasil1.1.png" alt="Alt Text" width="500"/>
+
+    Jawaban Salah
+    <img src="images/P5_Hasil1.2.png" alt="Alt Text" width="500"/>
+
+9. **Praktikum 5 - Langkah 2**
+
+    Kode : 
+
+    <img src="images/P5_Langkah2.png" alt="Alt Text" width="500"/>
+
+    Hasil :
+
+    <img src="images/P5_Hasil2.png" alt="Alt Text" width="500"/>
