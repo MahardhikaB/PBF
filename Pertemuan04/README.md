@@ -55,4 +55,22 @@
 
     <img src="images/P3_Hasil2.png" alt="Alt Text" width="500"/>
 
+6. **Praktikum 4 - Langkah 1**
 
+    Kode :
+
+    <img src="images/P4_Langkah1.png" alt="Alt Text" width="500"/>
+
+    Hasil : 
+
+    <img src="images/P4_Hasil1.png" alt="Alt Text" width="500"/>
+
+7. **Praktikum 4 - Langkah 2**
+
+    Kode : 
+
+    <img src="images/P4_Langkah2.png" alt="Alt Text" width="500"/>
+
+    Hasil :
+
+    <img src="images/P4_Hasil2.png" alt="Alt Text" width="500"/>
