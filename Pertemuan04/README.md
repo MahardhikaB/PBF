@@ -85,10 +85,12 @@
     Hasil :
 
     Jawaban Benar
+
     <img src="images/P5_Hasil1.png" alt="Alt Text" width="500"/>
     <img src="images/P5_Hasil1.1.png" alt="Alt Text" width="500"/>
 
     Jawaban Salah
+
     <img src="images/P5_Hasil1.2.png" alt="Alt Text" width="500"/>
 
 9. **Praktikum 5 - Langkah 2**
@@ -100,3 +102,25 @@
     Hasil :
 
     <img src="images/P5_Hasil2.png" alt="Alt Text" width="500"/>
+
+10. **Praktikum 6 - Langkah 1**
+
+    Kode :
+
+    <img src="images/P6_Langkah1.png" alt="Alt Text" width="500"/>
+
+    Hasil :
+
+    <img src="images/P6_Hasil1.png" alt="Alt Text" width="500"/>
+    <img src="images/P6_Hasil1.1.png" alt="Alt Text" width="500"/>
+
+11. **Praktikum 6 - Langkah 2**
+
+    Kode :
+
+    <img src="images/P6_Langkah2.png" alt="Alt Text" width="500"/>
+    <img src="images/P6_Langkah2.1.png" alt="Alt Text" width="500"/>
+
+    Hasil :
+
+    <img src="images/P6_Hasil2.png" alt="Alt Text" width="500"/>
