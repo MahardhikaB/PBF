@@ -124,3 +124,9 @@
     Hasil :
 
     <img src="images/P6_Hasil2.png" alt="Alt Text" width="500"/>
+
+    **Soal** :
+
+    1. Memberi key berupa email membuat penerima pada text area berubah, apabila tidak diberi key tersebut maka penerima pada test area akan tetap sama dikarenakan inputny amasih tersimpan
+
+    2. Fungsinya adalah agar saat user melakukan suatu aksi seperti input penerima data inputannya akan berubah ketika berganti kontak lain, sebaliknya apabila tidak diberi props key tersebut maka inputan user akan tersimpan walaupun sudah berganti kontak ke yang lain
