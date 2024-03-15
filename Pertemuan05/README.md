@@ -59,3 +59,14 @@
     Todo 2 (Hasil) :
 
     <img src="images/P3_Todo2_Hasil.gif" alt="Alt Text"/>
+
+
+4. **Praktikum 4**
+
+    Todo (Kode) :
+
+    <img src="images/P4_Page.png" alt="Alt Text" width="500"/>
+
+    Todo (Hasil) :
+
+    <img src="images/P4_Hasil.gif" alt="Alt Text"/>
