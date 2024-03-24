@@ -22,4 +22,21 @@
 
       <img src="images/P2_Soal2.1.png" alt="Alt Text" width="500"/>
 
+3. **Praktikum 3**
+
+    Kode :
+
+    - NaikTurunSlice.js
+      <img src="images/P3_Kode2.png" alt="Alt Text" width="500"/>
       
+    - Store.js
+
+      <img src="images/P3_Kode3.png" alt="Alt Text" width="500"/>
+      
+    - Counter.tsx
+
+      <img src="images/P3_Kode1.png" alt="Alt Text" width="500"/>
+    
+    Hasil :
+
+      <img src="images/P3_Hasil.gif" alt="Alt Text" width="500"/>
