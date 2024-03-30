@@ -33,3 +33,15 @@
 ### **Langkah 8 : Menjalankan Storage Link**
 
 ![gambar-praktikum](images/P1_Langkah8.png)
+
+
+
+## **Praktikum 2 : Membuat API Resources**
+
+### **Langkah 1 : Membuat API Resources**
+
+![gambar-praktikum](images/P2_Langkah1.png)
+
+### **Langkah 2 : Melakukan Custom API Resources**
+
+![gambar-praktikum](images/P2_Langkah2.png)
