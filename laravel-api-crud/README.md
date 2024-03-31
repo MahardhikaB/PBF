@@ -85,3 +85,17 @@
 ### **Langkah 2 : Uji Coba Rest API**
 
 ![gambar-praktikum](images/P5_Langkah2.png)
+
+
+
+## **Praktikum 6 : Update Data ke Database**
+
+### **Langkah 1 : Menambahkan Method**
+
+![gambar-praktikum](images/P6_Langkah1.1.png)
+
+![gambar-praktikum](images/P6_Langkah1.2.png)
+
+### **Langkah 2 : Uji Coba Rest API**
+
+![gambar-praktikum](images/P6_Langkah2.png)
