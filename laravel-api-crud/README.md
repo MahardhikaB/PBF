@@ -62,3 +62,14 @@
 
 ![gambar-praktikum](images/P3_Langkah3.png)
 
+
+
+## **Praktikum 4 : Insert Data ke Database**
+
+### **Langkah 1 : Menambahkan Method**
+
+![gambar-praktikum](images/P4_Langkah1.png)
+
+### **Langkah 2 : Uji Coba Rest API**
+
+![gambar-praktikum](images/P4_Langkah2.png)
