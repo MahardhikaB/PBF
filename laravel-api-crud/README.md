@@ -73,3 +73,15 @@
 ### **Langkah 2 : Uji Coba Rest API**
 
 ![gambar-praktikum](images/P4_Langkah2.png)
+
+
+
+## **Praktikum 5 : Menampilakan Detail Data**
+
+### **Langkah 1 : Menambahkan Method**
+
+![gambar-praktikum](images/P5_Langkah1.png)
+
+### **Langkah 2 : Uji Coba Rest API**
+
+![gambar-praktikum](images/P5_Langkah2.png)
