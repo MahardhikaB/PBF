@@ -99,3 +99,15 @@
 ### **Langkah 2 : Uji Coba Rest API**
 
 ![gambar-praktikum](images/P6_Langkah2.png)
+
+
+
+## **Praktikum 7 : Delete Data ke Database**
+
+### **Langkah 1 : Menambahkan Method**
+
+![gambar-praktikum](images/P7_Langkah1.png)
+
+### **Langkah 2 : Uji Coba Rest API**
+
+![gambar-praktikum](images/P7_Langkah2.png)
