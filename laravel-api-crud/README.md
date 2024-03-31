@@ -45,3 +45,20 @@
 ### **Langkah 2 : Melakukan Custom API Resources**
 
 ![gambar-praktikum](images/P2_Langkah2.png)
+
+
+
+## **Praktikum 3 : Menampilkan Data dari Database**
+
+### **Langkah 1 : Membuat Controller**
+
+![gambar-praktikum](images/P3_Langkah1.png)
+
+### **Langkah 2 : Membuat Route API Resource**
+
+![gambar-praktikum](images/P3_Langkah2.png)
+
+### **Langkah 3 : Uji Coba Rest API**
+
+![gambar-praktikum](images/P3_Langkah3.png)
+
