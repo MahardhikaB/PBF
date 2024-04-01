@@ -89,3 +89,9 @@ Sesudah :
 ![gambar-praktikum](images/P5_Langkah3.png)
 
 
+
+## **Praktikum 6 : Delete Data di Next.js**
+
+### **Langkah 1 & 2 : Menambahkan Method Delete Post & Uji Coba Delete Post**
+
+![gif_praktikum](images/P6_Langkah1_2.gif)
