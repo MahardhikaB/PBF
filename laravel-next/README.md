@@ -66,3 +66,26 @@
 
 ![gambar-praktikum](images/P4_Langkah2.png)
 
+
+
+## **Praktikum 5 : Edit dan Update Data di Next.js**
+
+### **Langkah 1 : Mengaktifkan Link Edit**
+
+![gambar-praktikum](images/P5_Langkah1.png)
+
+### **Langkah 2 : Membuat Page Edit Post**
+
+![gambar-praktikum](images/P5_Langkah2.png)
+
+### **Langkah 3 : Uji Coba Edit dan Update Data**
+
+Sebelum :
+
+![gambar-praktikum](images/P4_Langkah2.png)
+
+Sesudah :
+
+![gambar-praktikum](images/P5_Langkah3.png)
+
+
