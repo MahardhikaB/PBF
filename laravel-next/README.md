@@ -33,3 +33,36 @@
 ### **Langkah 4 : Membuat Layout**
 
 ![gambar-praktikum](images/P2_Langkah4.png)
+
+
+
+## **Praktikum 3 : Menampilkan Data di Next.js (Server Side)**
+
+### **Langkah 1 : Install Axios**
+
+![gambar-praktikum](images/P3_Langkah1.png)
+
+### **Langkah 2 : Konfigurasi Env untuk Endpoint**
+
+![gambar-praktikum](images/P3_Langkah2.png)
+
+### **Langkah 3 : Menampilkan Data di Next.Js**
+
+![gambar-praktikum](images/P3_Langkah3.png)
+
+### **Langkah 4 : Uji Coba Menampilkan Data**
+
+![gambar-praktikum](images/P3_Langkah4.png)
+
+
+
+## **Praktikum 4 : Insert Data di Next.js**
+
+### **Langkah 1 : Membuat Page Create Post**
+
+![gambar-praktikum](images/P4_Langkah1.png)
+
+### **Langkah 2 : Uji Coba Insert Data**
+
+![gambar-praktikum](images/P4_Langkah2.png)
+
