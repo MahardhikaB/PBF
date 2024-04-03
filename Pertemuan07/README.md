@@ -67,3 +67,38 @@ Cara untuk mengatasinya adalah memberi 'use client'; pada page.tsx
 ### **Soal 3**
 
 ![praktikum-img](images/P1_Soal3.png)
+
+
+
+## **Praktikum 2: Membuat Context melewati komponen perantara**
+
+### **Langkah 1: Buat komponen atom baru**
+
+Section 2 :
+
+![praktikum-img](images/P2_Langkah1.1.png)
+
+Post :
+
+![praktikum-img](images/P2_Langkah1.2.png)
+
+Recent Post :
+
+![praktikum-img](images/P2_Langkah1.3.png)
+
+All Post :
+
+![praktikum-img](images/P2_Langkah1.4.png)
+
+Profile Page :
+
+![praktikum-img](images/P2_Langkah1.5.png)
+
+### **Langkah 2: Tambahkan ProfilePage ke page.tsx lalu run**
+
+![praktikum-img](images/P2_Langkah2.1.png)
+
+### **Soal 4**
+
+![praktikum-img](images/P1_Soal4.png)
+
