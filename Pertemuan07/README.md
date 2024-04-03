@@ -56,3 +56,14 @@ Cara untuk mengatasinya adalah memberi 'use client'; pada page.tsx
 
 ![praktikum-img](images/Soal2_Solve.png)
 
+### **Langkah 6: Menggunakan dan menyediakan context dari komponen yang sama**
+
+![praktikum-img](images/P1_Langkah6.1.png)
+
+![praktikum-img](images/P1_Langkah6.2.png)
+
+![praktikum-img](images/P1_Langkah6.3.png)
+
+### **Soal 3**
+
+![praktikum-img](images/P1_Soal3.png)
