@@ -102,3 +102,28 @@ Profile Page :
 
 ![praktikum-img](images/P1_Soal4.png)
 
+
+
+## **Praktikum 3: Membuat Context Tema Light/Dark**
+
+### **Langkah 1: Membuat variabel tema**
+
+My Themes :
+
+![praktikum-img](images/P3_Langkah1.1.png)
+
+My Context :
+
+![praktikum-img](images/P3_Langkah1.2.png)
+
+### **Langkah 2: Buat komponen atom NavBar**
+
+![praktikum-img](images/P3_Langkah2.png)
+
+### **Langkah 3: Buat Provider**
+
+![praktikum-img](images/P3_Langkah3.png)
+
+### **Langkah 4: Buat masing-masing page**
+
+
