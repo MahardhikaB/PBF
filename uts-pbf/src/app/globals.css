@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.relative.flex.flex-col.rounded-lg.bg-white.shadow,
+.dark\:bg-gray-700 {
+      background-color: transparent;
+      color: transparent;
+}
