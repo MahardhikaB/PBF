@@ -4,6 +4,9 @@ import { Button, Checkbox, Label, Modal, TextInput } from "flowbite-react";
 import Link from "next/link";
 import { useRef, useState } from "react";
 import { IoClose } from "react-icons/io5";
+import { MdModeEdit } from "react-icons/md";
+import { FaTrashAlt } from "react-icons/fa";
+import { BiSolidDetail } from "react-icons/bi";
 
 export default function DataUser() {
     const [openModal, setOpenModal] = useState(false);
@@ -32,12 +35,17 @@ export default function DataUser() {
                 <td className="px-4 py-2">Mahardhika</td>
                 <td className="px-4 py-2">bredymahardhika@gmail.com</td>
                 <td className="px-4 py-2">
+                    <div className="flex flex-row justify-center">
+                    <button className="bg-yellow-200 text-white px-3 py-1 rounded-lg mr-2">
+                        <BiSolidDetail size={20} />
+                    </button>
                     <button className="bg-blue-500 text-white px-3 py-1 rounded-lg mr-2">
-                    Edit
+                        <MdModeEdit size={20} />
                     </button>
                     <button className="bg-red-500 text-white px-3 py-1 rounded-lg">
-                    Hapus
+                        <FaTrashAlt size={20} />
                     </button>
+                    </div>
                 </td>
                 </tr>
                 <tr className="bg-[#E3F3FF]">
@@ -45,12 +53,17 @@ export default function DataUser() {
                 <td className="px-4 py-2">Yoru</td>
                 <td className="px-4 py-2">yorz@gmail.com</td>
                 <td className="px-4 py-2">
+                <div className="flex flex-row justify-center">
+                    <button className="bg-yellow-200 text-white px-3 py-1 rounded-lg mr-2">
+                        <BiSolidDetail size={20} />
+                    </button>
                     <button className="bg-blue-500 text-white px-3 py-1 rounded-lg mr-2">
-                    Edit
+                        <MdModeEdit size={20} />
                     </button>
                     <button className="bg-red-500 text-white px-3 py-1 rounded-lg">
-                    Hapus
+                        <FaTrashAlt size={20} />
                     </button>
+                    </div>
                 </td>
                 </tr>
             </tbody>
